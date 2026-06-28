@@ -1,0 +1,7 @@
+h1{
+  text-align: center;
+  background-color: rgb(174, 174, 12);
+  color: white !important;
+  text-shadow: 2px 2px 3px gray;
+  padding: 10px;
+}
